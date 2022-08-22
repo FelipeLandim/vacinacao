@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(192, 221, 221);
+    font: normal 13pt arial;
+    text-align: center;
+}
+div#res{
+    font: normal 14pt arial;
+    margin-top: 20px;
+}
+input{
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+}
